@@ -4,7 +4,9 @@ add unlimited member in your telegram group.
 
 # With Proof , for proof DM [![Telegram](https://img.shields.io/badge/@dosa845-%23F7DF1C?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dosa845)
 
-## Proof :- [![PROOF](https://img.youtube.com/vi/fMCjni9ny18/0.jpg)](https://www.youtube.com/watch?v=fMCjni9ny18)
+## Proof :- 
+
+[![Watch the video](https://img.youtube.com/vi/fMCjni9ny18/maxresdefault.jpg)](https://youtu.be/fMCjni9ny18)
 
 # All Feature :- Available 👇
 0. 👉👉 Scrape 10k members from group
